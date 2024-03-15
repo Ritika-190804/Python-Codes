@@ -77,7 +77,7 @@ print(f,f.isspace())
 
 
 print("function 9 istitle:-")
-#returns true if the string follows the rules of a title.
+#Ereturns true if the string follows the rules of a title.
 print(d,d.istitle())
 print(f,f.istitle())
 print(h,h.istitle())
