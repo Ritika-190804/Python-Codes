@@ -39,3 +39,11 @@ print(student)
 # clear:-
 q = student.clear()
 print(q)
+
+#Nested dictionary:-
+Employees={1:{"name":"John","Age":23,"gender":"male"},
+    2:{"name":"Ritika","Age":24,"gender":"female"},
+    3:{"name":"raunak","age":25,"gender":"male"}}
+print(Employees)
+print(Employees[2]["Age"])
+
